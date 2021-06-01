@@ -1,17 +1,20 @@
-Hola!👋
-⚡ Mi nombre es Pedro Chincolla, soy estudiante de la Tecnicatura Universitaria en Programación (UTN).
+### Hola 👋, Mi nombre es Pedro Chincolla
+#### Soy estudiante de la Tecnicatura Universitaria en Programación (UTN).
+💻 Me interesa el desarrollo web, por lo que he aprendido (y continuo aprendiendo) algunas tecnologías y herramientas : 
+-HTML5 
+-CSS3 
+-JavaScript 
+-React JS
+ -Nodejs
 
-💻 Me interesa el desarrollo web, por lo que he aprendido (y continuo aprendiendo) algunas tecnologías y herramientas :
-    -HTML5
-    -CSS3
-    -JavaScript
-    -React JS
-    -Nodejs
-    
 🌱 Además, me encuentro estudiando C# con .NET y base de datos (SQL Server y Mongodb).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroT111)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PedroT111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-chincolla-b507b0180/)  
+
+
 
 
 
