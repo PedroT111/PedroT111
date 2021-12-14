@@ -7,7 +7,7 @@
 -React JS
  -Nodejs
 
-🌱 Además, me encuentro estudiando C# con .NET y base de datos (SQL Server y Mongodb).
+🌱 Además, me encuentro estudiando C# .NET y base de datos (SQL Server y Mongodb).
 
 
 
