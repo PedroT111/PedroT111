@@ -5,7 +5,8 @@
 -CSS3 
 -JavaScript 
 -React JS
- -Nodejs
+-Redux
+-Nodejs
 
 🌱 Además, me encuentro estudiando C# .NET y base de datos (SQL Server y Mongodb).
 
