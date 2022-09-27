@@ -8,7 +8,7 @@
 -Redux
 -Nodejs
 
-🌱 Además, me encuentro estudiando C# .NET y base de datos (SQL Server y Mongodb).
+🌱 Además, me encuentro estudiando C# .NET, Java Spring, Angular y bases de datos (SQL Server, MySQL y Mongodb).
 
 
 
