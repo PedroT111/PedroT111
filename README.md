@@ -24,10 +24,11 @@ I’m a data professional based in Copenhagen with a background in data analysis
 - Excel
 - Data Cleaning & EDA
 
-## 🤖 Machine Learning
-
-- Supervised Learning: Classification & Regression models
-- Unsupervised Learning: Clustering (k-means)
+**Machine Learning**
+- k-NN
+- k-means Clustering
+- Decision Trees
+- Random Forest
 
 **Data Visualization**
 - Matplotlib
@@ -38,6 +39,7 @@ I’m a data professional based in Copenhagen with a background in data analysis
 - JavaScript
 - MongoDB
 - Git & GitHub
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PedroT111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedro-chincolla-b507b0180/)  
