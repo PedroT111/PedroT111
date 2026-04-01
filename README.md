@@ -25,10 +25,8 @@ I’m a data professional based in Copenhagen with a background in data analysis
 - Data Cleaning & EDA
 
 **Machine Learning**
-- k-NN
-- k-means Clustering
-- Decision Trees
-- Random Forest
+- Supervised Learning: Classification & Regression (Random Forest, Decision Trees, k-NN)
+- Unsupervised Learning: k-means Clustering
 
 **Data Visualization**
 - Matplotlib
